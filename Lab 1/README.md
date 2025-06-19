@@ -1,4 +1,4 @@
-## Laboratory Activity 1
+## Laboratory Activity #1: Computational Thinking with the Titanic Dataset using Python
 
 ## Objectives:
 - Apply the four pillars of computational thinking: Decomposition, Pattern Recognition, Abstraction, and Algorithm Design
